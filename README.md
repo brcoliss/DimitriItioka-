@@ -15,8 +15,12 @@ HTML • CSS • JavaScript • PHP • MySQL • SQL Ferramentas: Git • GitHu
 Aplicação web Full Stack voltada à sustentabilidade, conectando usuários e empresas. HTML, CSS, JavaScript, PHP e MySQL.
 
 
+
 📫 Contato
+
 LinkedIn: [seu link]
-E-mail: [dimitriitioka6g@gmail.com]
+
+E-mail: [dimitriitioka6g@gmail.com
+
 Portfólio: [seu link, se tiver]
 
