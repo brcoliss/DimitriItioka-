@@ -1,26 +1,49 @@
-# DimitriItioka-
-Perfil profissional | Full Stack em formação | Foco em Front-End e desenvolvimento 
+# DimitriItioka
 
-Sobre mim
+### Desenvolvedor Full Stack em formação | Foco em Front-End
 
-Estudante de tecnologia com interesse em desenvolvimento web e criação de interfaces. Fiz cursos livres de Front-End e Back-End no SENAC e estou buscando estágio ou a primeira experiência na área.
+## 👨‍💻 Sobre mim
 
-🛠️ Tecnologias
+Sou estudante de tecnologia com interesse em **desenvolvimento web** e **criação de interfaces**. Tenho formação em cursos livres de **Front-End e Back-End pelo SENAC** e experiência prática por meio de projetos pessoais e acadêmicos.
 
-HTML • CSS • JavaScript • PHP • MySQL • SQL Ferramentas: Git • GitHub • VS Code • Figma • XAMPP • HeidiSQL
+Atualmente, busco uma oportunidade de **estágio ou primeira experiência profissional na área de tecnologia**, onde possa aplicar meus conhecimentos e continuar evoluindo como desenvolvedor.
 
-🚀 Projetos
+## 🛠️ Tecnologias
 
-♻️ EcoCall
-Aplicação web Full Stack voltada à sustentabilidade, conectando usuários e empresas. HTML, CSS, JavaScript, PHP e MySQL.
+**Front-End**
 
+* HTML5
+* CSS3
+* JavaScript
 
+**Back-End**
 
-📫 Contato
+* PHP
+* MySQL
+* SQL
 
-LinkedIn: [seu link]
+**Ferramentas**
 
-E-mail: [dimitriitioka6g@gmail.com
+* Git
+* GitHub
+* VS Code
+* Figma
+* XAMPP
+* HeidiSQL
 
-Portfólio: [seu link, se tiver]
+## 🚀 Projeto em destaque
+
+### ♻️ EcoCall
+
+Aplicação web Full Stack voltada à sustentabilidade, conectando usuários e empresas para facilitar o gerenciamento de coleta de resíduos.
+
+**Tecnologias:** HTML, CSS, JavaScript, PHP e MySQL.
+
+🔗 [Ver projeto no GitHub](https://github.com/kmtecnologia/EcoCall)
+
+## 📫 Contato
+
+* 💼 LinkedIn: **[seu LinkedIn]**
+* 📧 E-mail: **[dimitriitioka6g@gmail.com](mailto:dimitriitioka6g@gmail.com)**
+* 🌐 Portfólio: **[seu portfólio]**
 
