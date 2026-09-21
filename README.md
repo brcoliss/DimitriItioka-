@@ -10,6 +10,7 @@ Estudante de tecnologia com interesse em desenvolvimento web e criação de inte
 HTML • CSS • JavaScript • PHP • MySQL • SQL Ferramentas: Git • GitHub • VS Code • Figma • XAMPP • HeidiSQL
 
 🚀 Projetos
+
 ♻️ EcoCall
 
 Aplicação web Full Stack voltada à sustentabilidade, conectando usuários e empresas. HTML, CSS, JavaScript, PHP e MySQL.
